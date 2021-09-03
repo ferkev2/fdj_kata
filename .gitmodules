@@ -1,0 +1,6 @@
+[submodule "sport-app-server"]
+	path = sport-app-server
+	url = https://github.com/ferkev2/sport-app-server.git
+[submodule "sport-app-front"]
+	path = sport-app-front
+	url = https://github.com/ferkev2/sport-app-front.git
