@@ -29,3 +29,25 @@ Execute these commmands
   yarn run build
   yarn start
 ```
+
+## Api routes
+
+```shell
+GET api homepage
+/api/
+```
+
+```shell
+GET all leagues
+/api/leagues
+```
+
+```shell
+GET league after search
+/api/search?league=<league>
+```
+
+```shell
+GET one team by id with players
+/api/team/:id
+```
